@@ -42,6 +42,9 @@ button:hover {
 	margin-top: -95px;
 	margin-left: 780px;
 }
+.asterisk:hover {
+	cursor:pointer;	
+}
 .bubble {
 	position: absolute;
 	text-align: center;
